@@ -13,7 +13,7 @@ h2. Requirements
 * Optional
 ** Heroku Account
 ** Gems
-** Heroku 1.1+
+*** Heroku 1.1+
 
 h2. Installation
 
