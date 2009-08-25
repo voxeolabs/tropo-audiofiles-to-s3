@@ -47,8 +47,8 @@ After you have cloned the repo from Github above, you may do the following:
 
 <pre>
 	<code>cd ~/application-directory
-		  heroku create my-app-name
-		  git push heroku master
+		heroku create my-app-name
+		git push heroku master
     </code>
 </pre>
 
