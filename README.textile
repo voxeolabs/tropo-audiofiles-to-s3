@@ -25,13 +25,17 @@ To run locally, copy the sample configuration file for Amazon S3:
 
 <pre><code>cp ~/application-directory/config/amazon_s3.yml.sample ~/application-directory/config/amazon_s3.yml</code></pre>
 
-Then configure this file with your Amazon S3 credentials and S3 Bucket. 
-
 Install the aws-s3 gem:
 
 <pre><code>sudo gem install aws-s3</code></pre>
 
-h3. Running
+h2. Configuration
+
+Configure your Amazon S3 Bucket, Access Key and Secret Access key here:
+
+<pre><code>~/application-directory/config/amazon_s3.yml</code></pre>
+
+h3. Running on Your Own Server
 
 To run the app you may do the following:
 
