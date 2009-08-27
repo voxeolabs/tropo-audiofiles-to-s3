@@ -25,9 +25,9 @@ To run locally, copy the sample configuration file for Amazon S3:
 
 <pre><code>cp ~/application-directory/config/amazon_s3.yml.sample ~/application-directory/config/amazon_s3.yml</code></pre>
 
-Install the aws-s3 gem:
+Install the required gems:
 
-<pre><code>sudo gem install aws-s3</code></pre>
+<pre><code>sudo gem install sinatra aws-s3 heroku</code></pre>
 
 h2. Configuration
 
