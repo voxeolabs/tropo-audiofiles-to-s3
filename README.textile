@@ -49,10 +49,9 @@ It is possible to push this app to be hosted by Heroku. First you will need a He
 
 After you have cloned the repo from Github above, you may do the following:
 
-<pre><code>
-  cd ~/application-directory
-  heroku create my-app-name
-  git push heroku master
+<pre><code>cd ~/application-directory
+heroku create my-app-name
+git push heroku master
 </code></pre>
 
 (More from Heroku <a href='http://blog.heroku.com/archives/2009/3/5/32_deploy_merb_sinatra_or_any_rack_app_to_heroku/'>here</a>)
